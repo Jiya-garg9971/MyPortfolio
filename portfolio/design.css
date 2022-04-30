@@ -1,0 +1,152 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&family=Lobster+Two&family=Playfair+Display+SC:ital@1&family=Satisfy&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&family=Lobster+Two&family=Playfair+Display+SC:ital@1&family=Satisfy&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&family=Lobster+Two&family=Playfair+Display+SC:ital@1&family=Satisfy&display=swap');
+
+* {
+  margin-top: 5px;
+  background-color: black;
+}
+#basic {
+  margin:0px;
+  position: fixed;
+  top: 0%;
+  min-width: 100%;
+  min-height: 6%;
+  border-style: double;
+  background-color: black;
+ 
+  font-size: medium;
+}
+a {
+  color: aliceblue;
+  font-family: "Libre Baskerville", serif;
+  font-display: inherit;
+  padding: 10px;
+  padding-top: 20px;
+  text-align: right;
+}
+a:hover{
+  border-color: beige;
+  transition: width 1s,
+  height 2s;
+}
+#home :img{
+  align-items: right;
+ 
+}
+#home{
+  width: 100%;
+  height: 100%;
+  font-style: italic;
+  font-size:xx-large;
+  color: rgb(255, 255 ,240);
+  text-align: left;
+  background-color: black;
+  
+
+}
+#home :h3{
+  animation: duration timing-function delay iteration-count direction fill-mode;
+}
+img {
+  border: 10px;
+  padding: 60px;
+  border-style: double;
+  display:inline;
+}
+
+
+h1 {
+  
+  font-family: "Libre Baskerville", serif;
+  font-family: "Lobster Two", cursive;
+  font-family: "Satisfy", cursive;
+  text-align: center;
+  font-size: 40px;
+  border-style: double;
+  width: 97%;
+  color: brown;
+  padding: 20px;
+  background-color: rgb(232, 234, 218);
+}
+#about_me {
+  margin-top: 30px;
+  text-align: center;
+  width: 100%;
+
+  height: 100%;
+  background-color: black;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Satisfy", cursive;
+  font-size: 30px;
+ 
+  color: aliceblue;
+}
+#skills {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+}
+span {
+  color: black;
+  display: block;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Lobster Two", cursive;
+  font-family: "Playfair Display SC", serif;
+  font-family: "Satisfy", cursive;
+  background-color: wheat;
+  margin: 20px;
+  border: solid;
+  font-size: 20px;
+}
+.code {
+  color: greenyellow;
+  padding: 2px;
+  background-color: black;
+  border: none;
+}
+#achievement {
+  margin-top: 200px;
+  text-align: centre;
+  width: 100%;
+
+  height: 100%;
+  background-color: black;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Satisfy", cursive;
+  font-size: 30px;
+  width: 100%;
+}
+ul {
+  color: deeppink;
+  padding: 10px;
+  background-color: plum;
+}
+li {
+  background-color: black;
+  padding: 2px;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Lobster Two", cursive;
+  font-family: "Playfair Display SC", serif;
+  font-family: "Satisfy", cursive;
+}
+
+#contact{
+  color: floralwhite;
+  display: inline;
+  font-family: 'Libre Baskerville',
+  serif;
+  font-family: 'Lobster Two',
+  cursive;
+  font-family: 'Playfair Display SC',
+  serif;
+  font-family: 'Satisfy',
+  cursive;
+  border: 0px;
+  padding: 0px;
+
+}
